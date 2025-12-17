@@ -1,4 +1,4 @@
-[![Demo Video](demo.png)](v1.0.0.mp4)
+[![Demo Video](demo.png)]([v1.0.0.mp4](https://github.com/YureOliveiradeAguiar/segmented-control-ui-component/blob/main/v1.0.0.mp4))
 
 <strong>How to use</strong><br>
 <segmented-control

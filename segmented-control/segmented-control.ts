@@ -15,7 +15,7 @@ export interface SegmentedControlOption {
   templateUrl: './segmented-control.html',
   styleUrls: ['./segmented-control.scss']
 })
-export class SegmentedControlComponent implements AfterViewInit, OnChanges {
+export class SegmentedControl implements AfterViewInit, OnChanges {
 
   @Input()
   options: SegmentedControlOption[] = [];
@@ -80,3 +80,4 @@ export class SegmentedControlComponent implements AfterViewInit, OnChanges {
     }
   }
 }
+

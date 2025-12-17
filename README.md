@@ -1,4 +1,4 @@
-[![Demo Video](./assets/demo.png)](https://github.com/YureOliveiradeAguiar/segmented-control-ui-component/issues/1#issue-3739239136))
+[![Demo Video](./assets/demo.png)](https://github.com/YureOliveiradeAguiar/segmented-control-ui-component/issues/1#issue-3739239136)
 
 <strong>How to use</strong><br>
 <segmented-control

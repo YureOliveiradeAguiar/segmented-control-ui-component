@@ -1,4 +1,4 @@
-[![Demo Video](demo.png)](https://github.com/user/repo/assets/12345678/v1.0.0.mp4)
+[![Demo Video](demo.png)](v1.0.0.mp4)
 
 <strong>How to use</strong><br>
 <segmented-control

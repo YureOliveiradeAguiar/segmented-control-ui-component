@@ -1,4 +1,4 @@
-<img src="demo.gif" width="200px" alt="Demo">
+<img src="demo.gif" width="350px" alt="Demo">
 
 <strong>How to use</strong><br>
 <segmented-control

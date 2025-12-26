@@ -1,5 +1,8 @@
 <img src="demonstration.gif" width="350px" alt="Demo">
 
+The <strong>segmented-control (reactive forms)</strong> is the adapted version for reactive form made with CVA.<br>
+The other version is ideal for filters, view toggles and such.
+
 <strong>How to use</strong><br>
 ```html
 <segmented-control
@@ -8,8 +11,7 @@
     (valueChanged)="selectedOption = $event"
 />
 ```
-The <strong>segmented-control (reactive forms)</strong> is the adapted version for reactive form made with CVA.<br>
-The other version is ideal for filters, view toggles and such.
+<li> [value]="selectedOption" // Sets the current value </li>
 
 <strong>Example inputs</strong><br>
 ```html
@@ -19,5 +21,3 @@ options: SegmentedControlOption[]= [
     {label:"high", value: 3}
 ];
 ```
-  <li> [value]="selectedOption" //the current value </li>
-</ul>
